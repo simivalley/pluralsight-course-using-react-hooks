@@ -79,7 +79,7 @@ This course uses the Next.js framework as a demonstraton vehicle for React Hooks
 
 If you find any problems or issues, feel free to post it as an issue here at this forum and I will look into it as soon as I can. You can also contact me directly at http://peterkellner.net/contact/ 
 
-I hope you enjoy the course!
+I hope you enjoy the course!  
 
 
 
